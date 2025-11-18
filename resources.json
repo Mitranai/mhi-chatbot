@@ -1,0 +1,22 @@
+[
+  {
+    "category": "Mental Health Services",
+    "keywords": ["mental health", "therapy", "counseling", "depression", "anxiety", "stress"],
+    "text": "MHI provides comprehensive mental health support including therapy referrals, crisis support (call 988 or 1-800-MHI-HELP), educational resources, support groups, and online tools. For help, call 1-800-MHI-CARE or visit the-mhi.org/mental-health"
+  },
+  {
+    "category": "Crisis Support",
+    "keywords": ["crisis", "emergency", "suicide", "suicidal", "self harm", "hurt myself"],
+    "text": "🚨 IMMEDIATE CRISIS RESOURCES 🚨\n\n• Call 988 - National Suicide & Crisis Lifeline (24/7)\n• Text HELLO to 741741 - Crisis Text Line\n• Call 911 for medical emergencies\n• MHI Crisis Hotline: 1-800-MHI-HELP (24/7)\n\nYou are not alone. Help is available right now."
+  },
+  {
+    "category": "Heart Health Programs",
+    "keywords": ["heart", "cardiac", "cardiovascular", "blood pressure", "cholesterol"],
+    "text": "MHI Heart Health Programs include free screenings, educational workshops, partner network with cardiologists, and prevention resources. Visit the-mhi.org/heart-health or call 1-800-MHI-CARE"
+  },
+  {
+    "category": "Therapy Types",
+    "keywords": ["cbt", "cognitive behavioral therapy", "dbt", "emdr", "therapy types"],
+    "text": "Therapy options: CBT (cognitive behavioral therapy), DBT (dialectical behavior therapy), EMDR (trauma therapy), individual therapy, group therapy, and family therapy. Contact the-mhi.org/therapy or call 1-800-MHI-CARE"
+  }
+]
